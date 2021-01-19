@@ -1,6 +1,6 @@
-# Windows
+## Windows
 
-## Prerequisites
+### Prerequisites
 
 1. First step [artifacts-fivem-windows](https://github.com/Mowayyy/artifacts-fivem-windows)
 2. [Visual C++ Redistributable 2019](https://aka.ms/vs/16/release/VC_redist.x64.exe) or newer.
