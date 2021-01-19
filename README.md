@@ -20,4 +20,13 @@ D:\FXServer\server\FXServer.exe +exec server.cfg
 (the /d flag is only needed when changing directory to somewhere on a different drive)
 
 
+
+
+
+
+
+
+
+
+
 # eeeeeeeeeeeee
