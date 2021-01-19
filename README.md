@@ -31,3 +31,9 @@ D:\FXServer\server\FXServer.exe +exec server.cfg
 3. Set the license key in your `server.cfg` using `sv_licenseKey "licenseKeyGoesHere"`.
 4. Run the server from the `server-data` folder.
 7b. `bash /home/username/FXServer/server/run.sh +exec server.cfg`
+
+### Common issues
+If you don't get any 'resources found', and it says 'Failed to start resource', you didn't 'cd' to the right folder.
+If no resources get started, and you can't connect, you didn't add +exec.
+If you get 'no license key was specified', one of the above things applies.
+
