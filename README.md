@@ -35,4 +35,6 @@ D:\FXServer\server\FXServer.exe +exec server.cfg
 7b. `bash /home/username/FXServer/server/run.sh +exec server.cfg`
 
 ### Common issues
-* Item 1
+* If you don't get any 'resources found', and it says 'Failed to start resource', you didn't 'cd' to the right folder.
+* If no resources get started, and you can't connect, you didn't add +exec.
+* If you get 'no license key was specified', one of the above things applies.
