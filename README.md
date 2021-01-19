@@ -13,5 +13,6 @@
 3. Set the license key in your server.cfg using `sv_licenseKey "licenseKeyGoesHere"`.
 4. Run the server from the `server-data` folder. For example, in a plain Windows command prompt (cmd.exe) window:
 ```
-Box made with Triple Backticks
+cd /d D:\FXServer\server-data
+D:\FXServer\server\FXServer.exe +exec server.cfg
 ```
