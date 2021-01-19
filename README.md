@@ -14,6 +14,7 @@
 4. Run the server from the `server-data` folder. For example, in a plain Windows command prompt (cmd.exe) window:
 
 
+Certaines commandes Git de base sont:
 ''
 état de git
 git ajouter
