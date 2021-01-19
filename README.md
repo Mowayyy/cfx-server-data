@@ -27,4 +27,5 @@ D:\FXServer\server\FXServer.exe +exec server.cfg
 ### Installation
 1. Clone [cfx-server-data](https://github.com/citizenfx/cfx-server-data) in a new folder outside of your server binaries folder.
 4b. For example `git clone https://github.com/citizenfx/cfx-server-data.git /home/username/FXServer/server-data`
-5. Make a **server.cfg** file in your server-data folder (copy the example server.cfg file below into that file).
+2. Make a **server.cfg** file in your server-data folder (copy the example server.cfg file below into that file).
+3. Set the license key in your `server.cfg` using `sv_licenseKey "licenseKeyGoesHere"`.
