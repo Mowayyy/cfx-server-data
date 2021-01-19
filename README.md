@@ -1,4 +1,5 @@
 # Windows
+First step [artifacts-fivem-windows](https://github.com/Mowayyy/artifacts-fivem-windows) or newer.
 
 ## Prerequisites
 
