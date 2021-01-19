@@ -12,3 +12,4 @@
 2. Make a server.cfg file in your `server-data` folder (copy the example server.cfg file below into that file).
 3. Set the license key in your server.cfg using `sv_licenseKey "licenseKeyGoesHere"`.
 4. Run the server from the `server-data` folder. For example, in a plain Windows command prompt (cmd.exe) window:
+```duygtqsdhjk```
