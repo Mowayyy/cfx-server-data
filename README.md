@@ -22,9 +22,11 @@ D:\FXServer\server\FXServer.exe +exec server.cfg
 # Linux
 
 ## Prerequisites
+
 1. First step [artifacts-fivem-linux](https://github.com/Mowayyy/artifacts-fivem-linux)
 
 ### Installation
+
 1. Clone [cfx-server-data](https://github.com/citizenfx/cfx-server-data) in a new folder outside of your server binaries folder.
 4b. For example `git clone https://github.com/citizenfx/cfx-server-data.git /home/username/FXServer/server-data`
 2. Make a **server.cfg** file in your server-data folder (copy the example server.cfg file below into that file).
@@ -33,7 +35,4 @@ D:\FXServer\server\FXServer.exe +exec server.cfg
 7b. `bash /home/username/FXServer/server/run.sh +exec server.cfg`
 
 ### Common issues
-If you don't get any 'resources found', and it says 'Failed to start resource', you didn't 'cd' to the right folder.
-If no resources get started, and you can't connect, you didn't add +exec.
-If you get 'no license key was specified', one of the above things applies.
-
+* Item 1
