@@ -19,7 +19,7 @@ D:\FXServer\server\FXServer.exe +exec server.cfg
 ```
 (the /d flag is only needed when changing directory to somewhere on a different drive)
 
-#Linux
+# Linux
 
 ## Prerequisites
 1. First step [artifacts-fivem-linux](https://github.com/Mowayyy/artifacts-fivem-linux)
